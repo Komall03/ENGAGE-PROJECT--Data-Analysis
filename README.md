@@ -1,0 +1,2 @@
+# ENGAGE-PROJECT--Data-Analysis
+In this data analysis project there will be an open source web platform for data analytics community.  The website will allow user to upload data, perform multiple data analysis and cleaning processes on the given data and allow other users to comment for getting to a better conclusion. A summarized report will be generated at the end. Technologies used -> backend - Django, Frontend - React, Python for generating graphs.
