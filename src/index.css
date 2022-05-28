@@ -1,0 +1,70 @@
+body {
+  margin: 0 !important;
+  background-color: #e1e2ef !important;
+  height: 0 !important;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+legend {
+  width: auto !important;
+}
+
+iframe {
+  position: relative !important;
+}
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+/*For Firefox Browser*/
+input[type='number'] {
+  -moz-appearance: textfield;
+}
+@media print {
+  #Outlier-pdf {
+    display: block !important;
+    background-color: #e1e2ef !important;
+    height: 50 !important;
+  }
+  #Outlier-pdf1 {
+    display: flex !important;
+  }
+  #noprint {
+    display: none;
+  }
+  @page {
+    margin: 2 !important;
+    size: Tabloid;
+  }
+}
+/* width */
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #99add1;
+  border-radius: 10px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #99add1;
+  border-radius: 10px;
+}

@@ -1,0 +1,88 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="24"
+  height="24"
+  viewBox="0 0 24 24"
+>
+  <g id="Group_12039" data-name="Group 12039" transform="translate(153 -1228)">
+    <g
+      id="Rectangle_143"
+      data-name="Rectangle 143"
+      transform="translate(-153 1240.361)"
+      fill="#05204A"
+      stroke="#05204A"
+      stroke-linejoin="round"
+      stroke-width="1"
+    >
+      <rect width="11.639" height="11.639" rx="1" stroke="none" />
+      <rect
+        x="0.5"
+        y="0.5"
+        width="10.639"
+        height="10.639"
+        rx="0.5"
+        fill="none"
+      />
+    </g>
+    <g
+      id="Path_17657"
+      data-name="Path 17657"
+      transform="translate(-153 1228.251)"
+      fill="#05204A"
+      stroke-linejoin="round"
+    >
+      <path
+        d="M 11.1392183303833 11.1392183303833 L 0.4999982118606567 11.1392183303833 L 0.4999982118606567 0.4999982118606567 L 11.1392183303833 0.4999982118606567 L 11.1392183303833 11.1392183303833 Z"
+        stroke="none"
+      />
+      <path
+        d="M 0.9999980926513672 0.9999980926513672 L 0.9999980926513672 10.6392183303833 L 10.6392183303833 10.6392183303833 L 10.6392183303833 0.9999980926513672 L 0.9999980926513672 0.9999980926513672 M 0.4705886840820312 -1.9073486328125e-06 L 11.16862869262695 -1.9073486328125e-06 C 11.42852783203125 -1.9073486328125e-06 11.6392183303833 0.210688591003418 11.6392183303833 0.4705886840820312 L 11.6392183303833 11.16862869262695 C 11.6392183303833 11.42852783203125 11.42852783203125 11.6392183303833 11.16862869262695 11.6392183303833 L 0.4705886840820312 11.6392183303833 C 0.210688591003418 11.6392183303833 -1.9073486328125e-06 11.42852783203125 -1.9073486328125e-06 11.16862869262695 L -1.9073486328125e-06 0.4705886840820312 C -1.9073486328125e-06 0.210688591003418 0.210688591003418 -1.9073486328125e-06 0.4705886840820312 -1.9073486328125e-06 Z"
+        stroke="none"
+        fill="#05204A"
+      />
+    </g>
+    <g
+      id="Rectangle_146"
+      data-name="Rectangle 146"
+      transform="translate(-137.345 1228)"
+      fill="none"
+      stroke="#05204A"
+      stroke-linejoin="round"
+      stroke-width="1"
+    >
+      <rect width="8.345" height="8.345" rx="1" stroke="none" />
+      <rect x="0.5" y="0.5" width="7.345" height="7.345" rx="0.5" fill="none" />
+    </g>
+    <g
+      id="Rectangle_4674"
+      data-name="Rectangle 4674"
+      transform="translate(-135.024 1230.321)"
+      fill="#05204A"
+      stroke="#05204A"
+      stroke-linejoin="round"
+      stroke-width="2"
+    >
+      <rect width="3.702" height="3.702" rx="1" stroke="none" />
+      <rect x="1" y="1" width="1.702" height="1.702" fill="none" />
+    </g>
+    <g
+      id="Rectangle_144"
+      data-name="Rectangle 144"
+      transform="translate(-140.89 1240.361)"
+      fill="#05204A"
+      stroke="#05204A"
+      stroke-linejoin="round"
+      stroke-width="1"
+    >
+      <rect width="11.639" height="11.639" rx="1" stroke="none" />
+      <rect
+        x="0.5"
+        y="0.5"
+        width="10.639"
+        height="10.639"
+        rx="0.5"
+        fill="none"
+      />
+    </g>
+  </g>
+</svg>

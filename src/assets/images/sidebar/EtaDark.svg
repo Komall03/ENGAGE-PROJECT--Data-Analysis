@@ -1,0 +1,135 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="23"
+  height="25.245"
+  viewBox="0 0 23 25.245"
+>
+  <g
+    id="Group_12043"
+    data-name="Group 12043"
+    transform="translate(-221.903 -733.05)"
+  >
+    <path
+      id="Subtraction_26"
+      data-name="Subtraction 26"
+      d="M7.166,24h0L4.189,22.1,5.622,19.37a9.619,9.619,0,0,1-1.754-2.306L1.176,18.146,0,14.585,2.692,13.5a10.7,10.7,0,0,1,0-3.007L0,9.415l1.176-3.56,2.692,1.08A9.6,9.6,0,0,1,5.622,4.63L4.189,1.9,7.166,0,8.6,2.736a8.152,8.152,0,0,1,2.261-.5V4.451C7.344,4.789,4.591,8.105,4.591,12s2.753,7.211,6.268,7.549v2.217a8.178,8.178,0,0,1-2.261-.5L7.166,24Z"
+      transform="translate(221.903 733.673)"
+      fill="#05204A"
+    />
+    <line
+      id="Line_991"
+      data-name="Line 991"
+      y2="23.245"
+      transform="translate(232.762 734.05)"
+      fill="none"
+      stroke="#05204A"
+      stroke-linecap="round"
+      stroke-width="2"
+    />
+    <path
+      id="Path_17652"
+      data-name="Path 17652"
+      d="M-5849.5,14285.1h5.3l2.538-2.848"
+      transform="translate(6082.261 -13546.377)"
+      fill="none"
+      stroke="#05204A"
+      stroke-linecap="round"
+      stroke-width="1.5"
+    />
+    <path
+      id="Path_17656"
+      data-name="Path 17656"
+      d="M-5849.5,14282.25h5.3l2.538,2.848"
+      transform="translate(6082.261 -13529.057)"
+      fill="none"
+      stroke="#05204A"
+      stroke-linecap="round"
+      stroke-width="1.5"
+    />
+    <path
+      id="Path_17653"
+      data-name="Path 17653"
+      d="M-5849.5,14294.5h10.043"
+      transform="translate(6082.261 -13552.245)"
+      fill="none"
+      stroke="#05204A"
+      stroke-linecap="round"
+      stroke-width="1.5"
+    />
+    <path
+      id="Path_17655"
+      data-name="Path 17655"
+      d="M-5849.5,14294.5h10.043"
+      transform="translate(6082.261 -13544.953)"
+      fill="none"
+      stroke="#05204A"
+      stroke-linecap="round"
+      stroke-width="1.5"
+    />
+    <path
+      id="Path_17654"
+      data-name="Path 17654"
+      d="M-5849.5,14304.25h5.85"
+      transform="translate(6082.262 -13558.35)"
+      fill="none"
+      stroke="#05204A"
+      stroke-linecap="round"
+      stroke-width="1.5"
+    />
+    <g
+      id="Ellipse_4600"
+      data-name="Ellipse 4600"
+      transform="translate(240.047 733.822)"
+      fill="#05204A"
+      stroke="#05204A"
+      stroke-width="1"
+    >
+      <ellipse cx="1.324" cy="1.367" rx="1.324" ry="1.367" stroke="none" />
+      <ellipse cx="1.324" cy="1.367" rx="0.824" ry="0.867" fill="none" />
+    </g>
+    <g
+      id="Ellipse_4601"
+      data-name="Ellipse 4601"
+      transform="translate(242.254 740.795)"
+      fill="#05204A"
+      stroke="#05204A"
+      stroke-width="1"
+    >
+      <ellipse cx="1.324" cy="1.367" rx="1.324" ry="1.367" stroke="none" />
+      <ellipse cx="1.324" cy="1.367" rx="0.824" ry="0.867" fill="none" />
+    </g>
+    <g
+      id="Ellipse_4602"
+      data-name="Ellipse 4602"
+      transform="translate(237.398 744.396)"
+      fill="#05204A"
+      stroke="#05204A"
+      stroke-width="1"
+    >
+      <ellipse cx="1.324" cy="1.367" rx="1.324" ry="1.367" stroke="none" />
+      <ellipse cx="1.324" cy="1.367" rx="0.824" ry="0.867" fill="none" />
+    </g>
+    <g
+      id="Ellipse_4604"
+      data-name="Ellipse 4604"
+      transform="translate(239.605 754.938)"
+      fill="#05204A"
+      stroke="#05204A"
+      stroke-width="1"
+    >
+      <ellipse cx="1.324" cy="1.367" rx="1.324" ry="1.367" stroke="none" />
+      <ellipse cx="1.324" cy="1.367" rx="0.824" ry="0.867" fill="none" />
+    </g>
+    <g
+      id="Ellipse_4603"
+      data-name="Ellipse 4603"
+      transform="translate(242.254 748.088)"
+      fill="#05204A"
+      stroke="#05204A"
+      stroke-width="1"
+    >
+      <ellipse cx="1.324" cy="1.367" rx="1.324" ry="1.367" stroke="none" />
+      <ellipse cx="1.324" cy="1.367" rx="0.824" ry="0.867" fill="none" />
+    </g>
+  </g>
+</svg>

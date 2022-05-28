@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
+  <g id="Group_11628" data-name="Group 11628" transform="translate(-965 -368)">
+    <g id="Rectangle_95" data-name="Rectangle 95" transform="translate(969.086 382)" fill="#05204a" stroke="#05204a" stroke-width="1">
+      <rect width="4" height="7" rx="0.6" stroke="none"/>
+      <rect x="0.5" y="0.5" width="3" height="6" rx="0.1" fill="none"/>
+    </g>
+    <g id="Rectangle_96" data-name="Rectangle 96" transform="translate(974.8 378)" fill="#05204a" stroke="#05204a" stroke-width="1">
+      <rect width="4" height="11" rx="0.6" stroke="none"/>
+      <rect x="0.5" y="0.5" width="3" height="10" rx="0.1" fill="none"/>
+    </g>
+    <g id="Rectangle_97" data-name="Rectangle 97" transform="translate(980.7 374)" fill="#05204a" stroke="#05204a" stroke-width="1">
+      <rect width="4" height="15" rx="0.6" stroke="none"/>
+      <rect x="0.5" y="0.5" width="3" height="14" rx="0.1" fill="none"/>
+    </g>
+    <line id="Line_33" data-name="Line 33" y2="20" transform="translate(966 369)" fill="none" stroke="#05204a" stroke-linecap="square" stroke-width="2"/>
+    <line id="Line_34" data-name="Line 34" y2="20" transform="translate(986 389) rotate(90)" fill="none" stroke="#05204a" stroke-linecap="square" stroke-width="2"/>
+    <path id="Path_61" data-name="Path 61" d="M-89.386,409.875h-6.378v4.838h-5.645v4.618H-105" transform="translate(1074.086 -39.281)" fill="none" stroke="#05204a" stroke-linecap="round" stroke-width="1"/>
+  </g>
+</svg>

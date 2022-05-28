@@ -1,0 +1,161 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="14"
+  height="17"
+  viewBox="0 0 24 11"
+>
+  <g id="Group_12075" data-name="Group 12075" transform="translate(-471 -431)">
+    <g
+      id="Ellipse_4690"
+      data-name="Ellipse 4690"
+      transform="translate(471 431)"
+      fill="#05204A"
+      stroke="#05204A"
+      stroke-width="1"
+    >
+      <circle cx="5.5" cy="5.5" r="5.5" stroke="none" />
+      <circle cx="5.5" cy="5.5" r="5" fill="none" />
+    </g>
+    <g
+      id="Ellipse_4691"
+      data-name="Ellipse 4691"
+      transform="translate(489 434)"
+      fill="#05204A"
+      stroke="#05204A"
+      stroke-width="1"
+    >
+      <circle cx="3" cy="3" r="3" stroke="none" />
+      <circle cx="3" cy="3" r="2.5" fill="none" />
+    </g>
+    <path
+      id="Path_17662"
+      data-name="Path 17662"
+      d="M-5551.374,10929.069a5.348,5.348,0,0,1,2.705-1.069,4.874,4.874,0,0,1,2.717,1.382"
+      transform="translate(6034.304 -10493.444)"
+      fill="none"
+      stroke="#05204A"
+      stroke-linecap="round"
+      stroke-linejoin="round"
+      stroke-width="0.6"
+    />
+    <path
+      id="Path_17663"
+      data-name="Path 17663"
+      d="M-5540.428,10929.929l1.25-.311v-1.368"
+      transform="translate(6027.715 -10493.596)"
+      fill="none"
+      stroke="#05204A"
+      stroke-linecap="round"
+      stroke-linejoin="round"
+      stroke-width="0.6"
+    />
+    <circle
+      id="Ellipse_4692"
+      data-name="Ellipse 4692"
+      cx="0.56"
+      cy="0.56"
+      r="0.56"
+      transform="translate(473.688 432.778)"
+      fill="#e1e2ef"
+    />
+    <circle
+      id="Ellipse_4693"
+      data-name="Ellipse 4693"
+      cx="0.56"
+      cy="0.56"
+      r="0.56"
+      transform="translate(478.169 434.556)"
+      fill="#e1e2ef"
+    />
+    <circle
+      id="Ellipse_4709"
+      data-name="Ellipse 4709"
+      cx="0.56"
+      cy="0.56"
+      r="0.56"
+      transform="translate(493.403 436.778)"
+      fill="#e1e2ef"
+    />
+    <circle
+      id="Ellipse_4710"
+      data-name="Ellipse 4710"
+      cx="0.56"
+      cy="0.56"
+      r="0.56"
+      transform="translate(490.715 437.222)"
+      fill="#e1e2ef"
+    />
+    <circle
+      id="Ellipse_4697"
+      data-name="Ellipse 4697"
+      cx="0.56"
+      cy="0.56"
+      r="0.56"
+      transform="translate(492.059 435)"
+      fill="#e1e2ef"
+    />
+    <circle
+      id="Ellipse_4694"
+      data-name="Ellipse 4694"
+      cx="0.56"
+      cy="0.56"
+      r="0.56"
+      transform="translate(472.344 436.333)"
+      fill="#e1e2ef"
+    />
+    <circle
+      id="Ellipse_4706"
+      data-name="Ellipse 4706"
+      cx="0.56"
+      cy="0.56"
+      r="0.56"
+      transform="translate(475.481 435)"
+      fill="#e1e2ef"
+    />
+    <circle
+      id="Ellipse_4711"
+      data-name="Ellipse 4711"
+      cx="0.56"
+      cy="0.56"
+      r="0.56"
+      transform="translate(476.825 440.333)"
+      fill="#e1e2ef"
+    />
+    <circle
+      id="Ellipse_4707"
+      data-name="Ellipse 4707"
+      cx="0.56"
+      cy="0.56"
+      r="0.56"
+      transform="translate(476.825 431.444)"
+      fill="#e1e2ef"
+    />
+    <circle
+      id="Ellipse_4708"
+      data-name="Ellipse 4708"
+      cx="0.56"
+      cy="0.56"
+      r="0.56"
+      transform="translate(480.409 436.778)"
+      fill="#e1e2ef"
+    />
+    <circle
+      id="Ellipse_4695"
+      data-name="Ellipse 4695"
+      cx="0.56"
+      cy="0.56"
+      r="0.56"
+      transform="translate(477.721 437.667)"
+      fill="#e1e2ef"
+    />
+    <circle
+      id="Ellipse_4696"
+      data-name="Ellipse 4696"
+      cx="0.56"
+      cy="0.56"
+      r="0.56"
+      transform="translate(474.585 439)"
+      fill="#e1e2ef"
+    />
+  </g>
+</svg>

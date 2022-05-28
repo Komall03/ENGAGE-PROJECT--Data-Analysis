@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="28.016" height="28.016" viewBox="0 -5 30 38">
+  <g id="PersonBlack" transform="translate(0 0)">
+    <circle cx="15" cy="15" r="18" fill="#A79CB2"/>
+    <path id="Path_15125" data-name="Path 15125" d="M0,0H28.016V28.016H0Z" transform="translate(0 0)" fill="none"/>
+    <path id="Path_15126" data-name="Path 15126" d="M13.339,13.339A4.669,4.669,0,1,0,8.669,8.669,4.668,4.668,0,0,0,13.339,13.339Zm0,2.335C10.222,15.673,4,17.237,4,20.342v2.335H22.677V20.342C22.677,17.237,16.455,15.673,13.339,15.673Z" transform="translate(2 0.669)" fill="#343540"/>
+  </g>
+</svg>

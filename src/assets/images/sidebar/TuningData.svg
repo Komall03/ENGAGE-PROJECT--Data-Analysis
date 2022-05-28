@@ -1,0 +1,202 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="24"
+  height="24"
+  viewBox="0 0 24 24"
+>
+  <g
+    id="Group_12027"
+    data-name="Group 12027"
+    transform="translate(-364.4 -426.383)"
+  >
+    <g id="filter-line" transform="translate(371.125 439.603)">
+      <path
+        id="Path_17658"
+        data-name="Path 17658"
+        d="M.269,0H11.59a.276.276,0,0,1,.27.281A.286.286,0,0,1,11.765.5L7.246,5.183V9.206a.282.282,0,0,1-.152.253L4.963,10.743a.264.264,0,0,1-.368-.1.288.288,0,0,1-.036-.141h0V5.182L.078.479a.289.289,0,0,1,0-.4A.263.263,0,0,1,.269,0ZM10.937.563l-4.23,4.62L5,4.854c.057.052,1.783-.085,1.783,0L5.1,10.013V8.593L6.707,5.067h0a.286.286,0,0,1,.079-.2L10.937.563Z"
+        transform="translate(0)"
+        fill="#ffffff"
+      />
+    </g>
+    <g
+      id="Rectangle_4675"
+      data-name="Rectangle 4675"
+      transform="translate(364.4 426.383)"
+      fill="none"
+      stroke="#ffffff"
+      stroke-width="0.6"
+    >
+      <rect width="7.698" height="12.276" rx="1" stroke="none" />
+      <rect
+        x="0.3"
+        y="0.3"
+        width="7.098"
+        height="11.676"
+        rx="0.7"
+        fill="none"
+      />
+    </g>
+    <g
+      id="Rectangle_4676"
+      data-name="Rectangle 4676"
+      transform="translate(372.551 426.383)"
+      fill="none"
+      stroke="#ffffff"
+      stroke-width="0.6"
+    >
+      <rect width="7.698" height="12.276" rx="1" stroke="none" />
+      <rect
+        x="0.3"
+        y="0.3"
+        width="7.098"
+        height="11.676"
+        rx="0.7"
+        fill="none"
+      />
+    </g>
+    <g
+      id="Rectangle_4677"
+      data-name="Rectangle 4677"
+      transform="translate(380.702 426.383)"
+      fill="none"
+      stroke="#ffffff"
+      stroke-width="0.6"
+    >
+      <rect width="7.698" height="12.276" rx="1" stroke="none" />
+      <rect
+        x="0.3"
+        y="0.3"
+        width="7.098"
+        height="11.676"
+        rx="0.7"
+        fill="none"
+      />
+    </g>
+    <line
+      id="Line_992"
+      data-name="Line 992"
+      x2="7.608"
+      transform="translate(364.445 432.757)"
+      fill="none"
+      stroke="#ffffff"
+      stroke-width="0.5"
+    />
+    <g
+      id="Rectangle_4678"
+      data-name="Rectangle 4678"
+      transform="translate(365.578 431.246)"
+      fill="#ffffff"
+      stroke="#ffffff"
+      stroke-width="1"
+    >
+      <rect width="3.17" height="2.833" rx="1" stroke="none" />
+      <rect x="0.5" y="0.5" width="2.17" height="1.833" rx="0.5" fill="none" />
+    </g>
+    <g
+      id="Ellipse_4675"
+      data-name="Ellipse 4675"
+      transform="translate(368.974 432.048)"
+      fill="#ffffff"
+      stroke="#ffffff"
+      stroke-width="1"
+    >
+      <ellipse cx="0.679" cy="0.708" rx="0.679" ry="0.708" stroke="none" />
+      <ellipse cx="0.679" cy="0.708" rx="0.179" ry="0.208" fill="none" />
+    </g>
+    <g
+      id="Ellipse_4676"
+      data-name="Ellipse 4676"
+      transform="translate(370.559 432.284)"
+      fill="#ffffff"
+      stroke="#ffffff"
+      stroke-width="1"
+    >
+      <ellipse cx="0.453" cy="0.472" rx="0.453" ry="0.472" stroke="none" />
+      <ellipse cx="0.453" cy="0.472" rx="0.047" ry="0.028" fill="none" />
+    </g>
+    <line
+      id="Line_993"
+      data-name="Line 993"
+      y2="9.915"
+      transform="translate(367.615 427.563)"
+      fill="none"
+      stroke="#b2b9b9"
+      stroke-linecap="round"
+      stroke-width="0.4"
+    />
+    <path
+      id="Path_17659"
+      data-name="Path 17659"
+      d="M-5617.948,10932.917c-1.01.786-1.559-.512-2.308-.709s-1.407,1.18-1.695.709.36-7.713-.9-8.46-1.732,9.8-1.732,9.8h6.636Z"
+      transform="translate(5997.822 -10496.053)"
+      fill="#ffffff"
+      stroke="#ffffff"
+      stroke-linecap="round"
+      stroke-width="1"
+    />
+    <line
+      id="Line_994"
+      data-name="Line 994"
+      y2="9.915"
+      transform="translate(376.219 428.271)"
+      fill="none"
+      stroke="#b2b9b9"
+      stroke-linecap="round"
+      stroke-width="0.4"
+    />
+    <g
+      id="Rectangle_4679"
+      data-name="Rectangle 4679"
+      transform="translate(381.427 433.465)"
+      fill="#ffffff"
+      stroke="#ffffff"
+      stroke-width="1"
+    >
+      <rect width="1.811" height="5.194" rx="0.906" stroke="none" />
+      <rect
+        x="0.5"
+        y="0.5"
+        width="0.811"
+        height="4.194"
+        rx="0.406"
+        fill="none"
+      />
+    </g>
+    <g
+      id="Rectangle_4680"
+      data-name="Rectangle 4680"
+      transform="translate(383.691 429.688)"
+      fill="#ffffff"
+      stroke="#ffffff"
+      stroke-width="1"
+    >
+      <rect width="1.811" height="8.971" rx="0.906" stroke="none" />
+      <rect
+        x="0.5"
+        y="0.5"
+        width="0.811"
+        height="7.971"
+        rx="0.406"
+        fill="none"
+      />
+    </g>
+    <g
+      id="Rectangle_4681"
+      data-name="Rectangle 4681"
+      transform="translate(385.955 431.576)"
+      fill="#ffffff"
+      stroke="#ffffff"
+      stroke-width="1"
+    >
+      <rect width="1.811" height="7.082" rx="0.906" stroke="none" />
+      <rect
+        x="0.5"
+        y="0.5"
+        width="0.811"
+        height="6.082"
+        rx="0.406"
+        fill="none"
+      />
+    </g>
+  </g>
+</svg>

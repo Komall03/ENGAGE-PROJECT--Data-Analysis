@@ -1,0 +1,178 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="313.594"
+  height="194.38"
+  viewBox="0 0 313.594 194.38"
+>
+  <g
+    id="Group_12157"
+    data-name="Group 12157"
+    transform="translate(-1102.164 -668.351)"
+  >
+    <path
+      id="Path_17690"
+      data-name="Path 17690"
+      d="M-14353.5-20416.049s65.56-.268,67.625,0,5.61,2.148,5.425,8.23-4.254,7.154-6.01,7.035-19.742-.061-21.114,0-4.453,2.355-4.453,7.723,2.9,7.213,4.453,7.541,11.219-.3,12.329,0,4.47,2.744,4.16,8.109-3.144,7.156-4.16,7.156h-58.255Z"
+      transform="translate(15662.311 21147.641)"
+      fill="#bcbcbc"
+    />
+    <path
+      id="Path_17693"
+      data-name="Path 17693"
+      d="M-14270.812-20356.607s-74.2.35-76.54,0-6.351-2.791-6.141-10.7,4.815-9.309,6.8-9.154,22.346.078,23.9,0,5.04-3.064,5.04-10.043-3.278-9.383-5.04-9.811-12.7.389-13.954,0-5.059-3.568-4.709-10.549,3.558-9.3,4.709-9.3h65.935Z"
+      transform="translate(15463.949 21177.467)"
+      fill="#bcbcbc"
+    />
+    <path
+      id="Path_17691"
+      data-name="Path 17691"
+      d="M-14353.5-20416.09s45.689-.174,47.13,0,3.909,1.4,3.78,5.357-2.965,4.66-4.188,4.582-13.759-.039-14.715,0-3.1,1.533-3.1,5.027,2.018,4.7,3.1,4.91,7.819-.193,8.592,0,3.115,1.787,2.9,5.281-2.19,4.658-2.9,4.658h-40.6Z"
+      transform="translate(15662.313 21207.287)"
+      fill="#bcbcbc"
+    />
+    <path
+      id="Subtraction_32"
+      data-name="Subtraction 32"
+      d="M115.676,112.061h-.487l-6.742-9.094-5.9,9.094h-1.18l-10.541-9.094-8.432,9.094H81.032L70.49,102.967l-8.853,9.094H60.4l-8.432-9.094-9.7,9.094H40.784l-10.962-9.094-8.432,9.094H19.933L8.05,102.967.538,112.061H0L0,6A6.007,6.007,0,0,1,6,0h96l13.677,21.888Z"
+      transform="translate(1193.137 704.438)"
+      fill="#05204aCC"
+      opacity="0.75"
+    />
+    <path
+      id="Subtraction_31"
+      data-name="Subtraction 31"
+      d="M109.675,41.579H6a6.008,6.008,0,0,1-6-6V0H.938l8.68,8.793L14.27,0h1.791L27.937,8.793,34.394,0h2.145L49.871,8.793,55.078,0h1.874L69.035,8.793,76.325,0H78.38L90.047,8.793,97.128,0H99l10.208,8.793L115.044,0h.63V35.578A6.007,6.007,0,0,1,109.675,41.579Z"
+      transform="translate(1193.138 821.015)"
+      fill="#05204aCC"
+      opacity="0.75"
+    />
+    <circle
+      id="Ellipse_4720"
+      data-name="Ellipse 4720"
+      cx="6.778"
+      cy="6.778"
+      r="6.778"
+      transform="translate(1219.344 736.065)"
+      fill="#e1e2ef"
+    />
+    <circle
+      id="Ellipse_4721"
+      data-name="Ellipse 4721"
+      cx="6.778"
+      cy="6.778"
+      r="6.778"
+      transform="translate(1269.953 736.065)"
+      fill="#e1e2ef"
+    />
+    <path
+      id="Path_17689"
+      data-name="Path 17689"
+      d="M-14629.5-20276.207a23.317,23.317,0,0,1,21.463-11.3c14.912.9,19.656,11.3,19.656,11.3"
+      transform="translate(15859.913 21059.268)"
+      fill="none"
+      stroke="#e1e2ef"
+      stroke-linecap="round"
+      stroke-width="3"
+    />
+    <g
+      id="Group_12156"
+      data-name="Group 12156"
+      transform="translate(1156.84 670.959)"
+      opacity="0.64"
+    >
+      <line
+        id="Line_1034"
+        data-name="Line 1034"
+        x1="29.81"
+        y1="13.117"
+        transform="translate(0 26.233)"
+        fill="none"
+        stroke="#545a63"
+        stroke-linecap="round"
+        stroke-width="4"
+      />
+      <line
+        id="Line_1035"
+        data-name="Line 1035"
+        x1="10.732"
+        y1="8.347"
+        transform="translate(23.848 21.464)"
+        fill="none"
+        stroke="#545a63"
+        stroke-linecap="round"
+        stroke-width="4"
+      />
+      <line
+        id="Line_1036"
+        data-name="Line 1036"
+        x1="10.732"
+        y1="26.233"
+        transform="translate(32.195)"
+        fill="none"
+        stroke="#545a63"
+        stroke-linecap="round"
+        stroke-width="4"
+      />
+    </g>
+    <line
+      id="Line_1037"
+      data-name="Line 1037"
+      x2="20.786"
+      transform="translate(1315.444 861.231)"
+      fill="none"
+      stroke="#3b5173"
+      stroke-width="3"
+      opacity="0.75"
+    />
+    <line
+      id="Line_1038"
+      data-name="Line 1038"
+      x2="67.78"
+      transform="translate(1347.978 861.231)"
+      fill="none"
+      stroke="#3b5173"
+      stroke-width="3"
+      opacity="0.75"
+    />
+    <line
+      id="Line_1039"
+      data-name="Line 1039"
+      x2="59.646"
+      transform="translate(1329.904 852.194)"
+      fill="none"
+      stroke="#3b5173"
+      stroke-width="3"
+      opacity="0.75"
+    />
+    <line
+      id="Line_1040"
+      data-name="Line 1040"
+      x1="53.32"
+      transform="translate(1151.869 861.231)"
+      fill="none"
+      stroke="#3b5173"
+      stroke-width="3"
+      opacity="0.75"
+    />
+    <line
+      id="Line_1041"
+      data-name="Line 1041"
+      x1="38.86"
+      transform="translate(1102.164 861.231)"
+      fill="none"
+      stroke="#3b5173"
+      stroke-width="3"
+      opacity="0.75"
+    />
+    <line
+      id="Line_1042"
+      data-name="Line 1042"
+      x2="45.186"
+      transform="translate(1127.469 852.194)"
+      fill="none"
+      stroke="#3b5173"
+      stroke-width="3"
+      opacity="0.75"
+    />
+  </g>
+</svg>
